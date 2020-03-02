@@ -1,0 +1,22 @@
+{
+	"basics": {
+		"name": "Rehman",
+		"role": "fresher",
+		"email": "rehman19149@gmail.com",
+		"mobile": "+917989395510",
+		"education": [
+			{
+				"degree": "SSC",
+				"per": 7.6
+			},
+			{
+				"degree": "INTER",
+				"per": 90.6
+			},
+			{
+				"degree": "B-Tech",
+				"per": 7.0
+			}
+		]
+	}
+}
