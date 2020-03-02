@@ -47,8 +47,11 @@ function display_info(info) {
 	let br3 = document.createElement('br');
 	card.append(br3);
 
-	var bu1 = document.createElement("button");
-	bu1.textContent = "View Profile";
+	var bu1 = document.createElement('button');
+	var x = document.createElement('a');
+	x.href = 'https://www.google.com/';
+	x.append(bu1);
+	bu1.textContent = 'View Profile';
 	bu1.classList.add('btn');
-	card.append('bu1');
+	card.append(x);
 }
