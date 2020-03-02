@@ -49,7 +49,7 @@ function display_info(info) {
 
 	var bu1 = document.createElement('button');
 	var x = document.createElement('a');
-	x.href = 'https://www.google.com/';
+	x.href = 'https://app.byndr.com/#/';
 	x.append(bu1);
 	bu1.textContent = 'View Profile';
 	bu1.classList.add('btn');
