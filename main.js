@@ -48,7 +48,6 @@ function display_info(info) {
 	card.append(br3);
 
 	var bu1 = document.createElement("button");
-	bu1.href="www.google.com";
 	bu1.textContent = "View Profile";
 	bu1.classList.add('btn');
 	card.append('bu1');
